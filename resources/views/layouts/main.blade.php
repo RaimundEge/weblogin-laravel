@@ -59,7 +59,7 @@
 <div th:fragment="bottom">
     <div class="container text-center">
         <hr/>
-        <a href="//spring.io" target="_blank">Developed with PHP Laravel Framework</a> &nbsp; &copy; 2018 CSCI 680 - Dr. Raimund K. Ege - NIU - CS
+        <a href="//laravel.com" target="_blank">Developed with PHP Laravel Framework</a> &nbsp; &copy; 2018 CSCI 680 - Dr. Raimund K. Ege - NIU - CS
     </div>
 </div>
 
